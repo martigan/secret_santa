@@ -1,0 +1,7 @@
+backend/.venv/*
+.idea/*
+__pycache__/
+.ruff_cache/*
+backend/.pytest_cache
+*db.sqlite3
+frontend/node_modules
