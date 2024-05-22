@@ -1,0 +1,10 @@
+autopep8
+black
+factory-boy
+mypy
+pre-commit
+pylint
+pylint-django
+pytest
+pytest-django
+reorder-python-imports
